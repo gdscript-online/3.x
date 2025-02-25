@@ -1,10 +1,21 @@
 # GDScript Online
 
+> [!NOTE]
+>
+> This repository contains the Godot 3.x version of the project,
+> which is in maintenance mode.
+>
+> Development is most active on the
+> [Godot 4.x version of the project](https://github.com/gdscript-online/gdscript-online.github.io).
+
 An online GDScript runtime environment. The main use case is to play around
 with GDScript without needing to install Godot. This can be useful when
 you're using a PC on which you can't run executables downloaded from the Web.
 
 ## [Try it out](https://gdscript-online.github.io/)
+
+- Godot 4.x **(recommended)**: https://gdscript-online.github.io/
+- Godot 3.x: https://gdscript-online.github.io/3.x/
 
 ## Limitations
 
